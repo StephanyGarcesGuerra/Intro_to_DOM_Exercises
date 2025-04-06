@@ -1,6 +1,18 @@
 let titleElement = document.getElementById("title");
-
 console.log(titleElement);
+
+
+let btn = document.querySelector('button')
+let h2Tag = document.querySelector('h2')
+let h4Tag = document.querySelector('h4')
+
+console.log(h2Tag);
+console.log(h4Tag);
+console.log(btn);
+
+
+
+
 
 
 
