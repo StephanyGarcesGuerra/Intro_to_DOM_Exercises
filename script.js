@@ -10,6 +10,8 @@ console.log(h2Tag);
 console.log(h4Tag);
 console.log(btn);
 
+let accent = document.querySelectorAll("p")
+console.log(accent);
 
 
 
